@@ -1,0 +1,12 @@
+# Settings actually used by src/run_experiments.py (defaults of run_fl in src/fl_sim.py)
+datasets: [heart, breast_cancer, diabetes]
+models: [fedavg, ppfbxaio, pefl, bppfl, tabnet_bcfl]
+seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+split: {train: 0.70, val: 0.15, test: 0.15}
+federation: {n_clients: 10, clients_per_round: 4, rounds: 100, local_epochs: 5, batch_size: 32, dirichlet_alpha: 0.5}
+optimizer: {name: sgd, lr: 0.1, momentum: 0}
+loss: binary_cross_entropy
+backbone: {hidden_units: 16, activation: relu}
+privacy: {clip_norm: 1.0, noise_multiplier: 0.3, ppfbxaio: laplace, pefl: gaussian, tabnet_bcfl: gaussian}
+paillier_bits: 512
+attacks: {malicious_fraction: 0.2, types: [noise, label_flip, stat_opt, dyn_opt]}

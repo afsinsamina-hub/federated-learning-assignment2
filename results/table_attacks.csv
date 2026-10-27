@@ -1,0 +1,16 @@
+Dataset,Model,Clean,Extra noise,Label-flip (20% clients),STAT-OPT,DYN-OPT
+UCI Heart Disease,FedAvg,81.1 ± 4.6,76.3 ± 7.4,71.1 ± 15.1,54.6 ± 14.7,57.2 ± 19.7
+UCI Heart Disease,PPFBXAIO,72.8 ± 10.9,74.6 ± 11.3,71.7 ± 11.7,71.5 ± 12.0,71.5 ± 11.5
+UCI Heart Disease,PEFL,76.3 ± 8.4,74.1 ± 8.2,71.3 ± 13.7,72.8 ± 14.2,65.2 ± 17.1
+UCI Heart Disease,BPPFL,81.1 ± 4.6,76.3 ± 7.4,71.1 ± 15.1,54.6 ± 14.7,57.2 ± 19.7
+UCI Heart Disease,TabNet-BCFL,80.2 ± 5.9,73.7 ± 9.1,78.0 ± 6.9,72.4 ± 10.8,59.6 ± 19.9
+Breast Cancer Wisconsin,FedAvg,94.5 ± 2.3,92.1 ± 2.3,90.3 ± 7.1,58.0 ± 19.9,87.7 ± 10.2
+Breast Cancer Wisconsin,PPFBXAIO,95.0 ± 2.1,93.8 ± 1.6,93.6 ± 2.5,93.6 ± 2.5,93.7 ± 2.4
+Breast Cancer Wisconsin,PEFL,94.3 ± 3.2,94.4 ± 2.5,94.2 ± 3.4,93.4 ± 3.9,92.4 ± 3.1
+Breast Cancer Wisconsin,BPPFL,94.5 ± 2.3,92.1 ± 2.3,90.3 ± 7.1,58.0 ± 19.9,87.7 ± 10.2
+Breast Cancer Wisconsin,TabNet-BCFL,94.0 ± 2.2,94.8 ± 2.0,94.2 ± 3.0,93.4 ± 3.0,89.5 ± 9.6
+Pima Diabetes,FedAvg,72.0 ± 5.2,64.8 ± 11.3,59.7 ± 17.9,45.3 ± 16.9,62.4 ± 15.2
+Pima Diabetes,PPFBXAIO,70.2 ± 3.8,73.2 ± 4.4,70.6 ± 3.7,70.4 ± 4.0,70.3 ± 3.8
+Pima Diabetes,PEFL,71.3 ± 4.3,67.5 ± 12.2,69.8 ± 5.0,70.0 ± 4.8,65.0 ± 11.8
+Pima Diabetes,BPPFL,72.0 ± 5.2,64.8 ± 11.3,59.7 ± 17.9,45.3 ± 16.9,62.4 ± 15.2
+Pima Diabetes,TabNet-BCFL,72.4 ± 3.0,72.8 ± 5.3,68.7 ± 12.8,67.8 ± 14.4,64.8 ± 11.3

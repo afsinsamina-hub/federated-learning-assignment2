@@ -1,0 +1,331 @@
+2026-10-26 21:55:22,590 clean heart s0 fedavg acc=0.783 auc=0.899 lat=0.9ms
+2026-10-26 21:55:23,026 attacks heart s0 fedavg done
+2026-10-26 21:55:23,440 clean heart s0 ppfbxaio acc=0.739 auc=0.806 lat=1.2ms
+2026-10-26 21:55:23,965 attacks heart s0 ppfbxaio done
+2026-10-26 21:55:24,137 clean heart s0 pefl acc=0.804 auc=0.899 lat=1.6ms
+2026-10-26 21:55:24,866 attacks heart s0 pefl done
+2026-10-26 21:55:51,266 clean heart s0 bppfl acc=0.783 auc=0.899 lat=263.7ms
+2026-10-26 21:55:51,697 attacks heart s0 bppfl done
+2026-10-26 21:55:51,891 clean heart s0 tabnet_bcfl acc=0.783 auc=0.853 lat=1.8ms
+2026-10-26 21:55:52,669 attacks heart s0 tabnet_bcfl done
+2026-10-26 21:55:54,434 ablation heart s0 done  elapsed=32s
+2026-10-26 21:55:54,547 clean heart s1 fedavg acc=0.783 auc=0.910 lat=0.9ms
+2026-10-26 21:55:54,942 attacks heart s1 fedavg done
+2026-10-26 21:55:55,318 clean heart s1 ppfbxaio acc=0.609 auc=0.693 lat=1.1ms
+2026-10-26 21:55:55,892 attacks heart s1 ppfbxaio done
+2026-10-26 21:55:56,083 clean heart s1 pefl acc=0.783 auc=0.890 lat=1.8ms
+2026-10-26 21:55:56,767 attacks heart s1 pefl done
+2026-10-26 21:56:23,054 clean heart s1 bppfl acc=0.783 auc=0.910 lat=262.6ms
+2026-10-26 21:56:23,470 attacks heart s1 bppfl done
+2026-10-26 21:56:23,682 clean heart s1 tabnet_bcfl acc=0.848 auc=0.893 lat=1.9ms
+2026-10-26 21:56:24,498 attacks heart s1 tabnet_bcfl done
+2026-10-26 21:56:26,096 ablation heart s1 done  elapsed=64s
+2026-10-26 21:56:26,220 clean heart s2 fedavg acc=0.783 auc=0.872 lat=1.0ms
+2026-10-26 21:56:26,653 attacks heart s2 fedavg done
+2026-10-26 21:56:27,073 clean heart s2 ppfbxaio acc=0.674 auc=0.699 lat=1.3ms
+2026-10-26 21:56:27,600 attacks heart s2 ppfbxaio done
+2026-10-26 21:56:27,775 clean heart s2 pefl acc=0.652 auc=0.876 lat=1.6ms
+2026-10-26 21:56:28,477 attacks heart s2 pefl done
+2026-10-26 21:56:54,609 clean heart s2 bppfl acc=0.783 auc=0.872 lat=261.0ms
+2026-10-26 21:56:55,056 attacks heart s2 bppfl done
+2026-10-26 21:56:55,289 clean heart s2 tabnet_bcfl acc=0.783 auc=0.865 lat=2.1ms
+2026-10-26 21:56:56,245 attacks heart s2 tabnet_bcfl done
+2026-10-26 21:56:57,926 ablation heart s2 done  elapsed=95s
+2026-10-26 21:56:58,057 clean heart s3 fedavg acc=0.804 auc=0.907 lat=0.9ms
+2026-10-26 21:56:58,473 attacks heart s3 fedavg done
+2026-10-26 21:56:58,892 clean heart s3 ppfbxaio acc=0.826 auc=0.818 lat=1.3ms
+2026-10-26 21:56:59,438 attacks heart s3 ppfbxaio done
+2026-10-26 21:56:59,618 clean heart s3 pefl acc=0.761 auc=0.893 lat=1.7ms
+2026-10-26 21:57:00,362 attacks heart s3 pefl done
+2026-10-26 21:57:27,275 clean heart s3 bppfl acc=0.804 auc=0.907 lat=268.8ms
+2026-10-26 21:57:27,811 attacks heart s3 bppfl done
+2026-10-26 21:57:28,012 clean heart s3 tabnet_bcfl acc=0.826 auc=0.916 lat=1.8ms
+2026-10-26 21:57:28,834 attacks heart s3 tabnet_bcfl done
+2026-10-26 21:57:30,328 ablation heart s3 done  elapsed=128s
+2026-10-26 21:57:30,442 clean heart s4 fedavg acc=0.891 auc=0.956 lat=0.8ms
+2026-10-26 21:57:30,822 attacks heart s4 fedavg done
+2026-10-26 21:57:31,179 clean heart s4 ppfbxaio acc=0.783 auc=0.865 lat=1.1ms
+2026-10-26 21:57:31,643 attacks heart s4 ppfbxaio done
+2026-10-26 21:57:31,801 clean heart s4 pefl acc=0.870 auc=0.943 lat=1.5ms
+2026-10-26 21:57:32,471 attacks heart s4 pefl done
+2026-10-26 21:57:59,057 clean heart s4 bppfl acc=0.891 auc=0.956 lat=265.5ms
+2026-10-26 21:57:59,468 attacks heart s4 bppfl done
+2026-10-26 21:57:59,656 clean heart s4 tabnet_bcfl acc=0.870 auc=0.939 lat=1.7ms
+2026-10-26 21:58:00,367 attacks heart s4 tabnet_bcfl done
+2026-10-26 21:58:01,896 ablation heart s4 done  elapsed=159s
+2026-10-26 21:58:02,030 clean heart s5 fedavg acc=0.739 auc=0.861 lat=0.9ms
+2026-10-26 21:58:02,484 attacks heart s5 fedavg done
+2026-10-26 21:58:02,907 clean heart s5 ppfbxaio acc=0.609 auc=0.722 lat=1.3ms
+2026-10-26 21:58:03,507 attacks heart s5 ppfbxaio done
+2026-10-26 21:58:03,699 clean heart s5 pefl acc=0.761 auc=0.775 lat=1.8ms
+2026-10-26 21:58:04,497 attacks heart s5 pefl done
+2026-10-26 21:58:30,636 clean heart s5 bppfl acc=0.739 auc=0.861 lat=261.0ms
+2026-10-26 21:58:31,112 attacks heart s5 bppfl done
+2026-10-26 21:58:31,342 clean heart s5 tabnet_bcfl acc=0.717 auc=0.819 lat=2.1ms
+2026-10-26 21:58:32,147 attacks heart s5 tabnet_bcfl done
+2026-10-26 21:58:33,927 ablation heart s5 done  elapsed=191s
+2026-10-26 21:58:34,079 clean heart s6 fedavg acc=0.804 auc=0.851 lat=1.0ms
+2026-10-26 21:58:34,506 attacks heart s6 fedavg done
+2026-10-26 21:58:34,890 clean heart s6 ppfbxaio acc=0.761 auc=0.773 lat=1.2ms
+2026-10-26 21:58:35,446 attacks heart s6 ppfbxaio done
+2026-10-26 21:58:35,629 clean heart s6 pefl acc=0.717 auc=0.844 lat=1.7ms
+2026-10-26 21:58:36,368 attacks heart s6 pefl done
+2026-10-26 21:59:02,341 clean heart s6 bppfl acc=0.804 auc=0.851 lat=259.4ms
+2026-10-26 21:59:02,779 attacks heart s6 bppfl done
+2026-10-26 21:59:02,968 clean heart s6 tabnet_bcfl acc=0.696 auc=0.863 lat=1.7ms
+2026-10-26 21:59:03,724 attacks heart s6 tabnet_bcfl done
+2026-10-26 21:59:05,232 ablation heart s6 done  elapsed=223s
+2026-10-26 21:59:05,368 clean heart s7 fedavg acc=0.848 auc=0.861 lat=0.8ms
+2026-10-26 21:59:05,771 attacks heart s7 fedavg done
+2026-10-26 21:59:06,138 clean heart s7 ppfbxaio acc=0.565 auc=0.726 lat=1.1ms
+2026-10-26 21:59:06,629 attacks heart s7 ppfbxaio done
+2026-10-26 21:59:06,795 clean heart s7 pefl acc=0.696 auc=0.895 lat=1.5ms
+2026-10-26 21:59:07,426 attacks heart s7 pefl done
+2026-10-26 21:59:32,630 clean heart s7 bppfl acc=0.848 auc=0.861 lat=251.8ms
+2026-10-26 21:59:33,046 attacks heart s7 bppfl done
+2026-10-26 21:59:33,237 clean heart s7 tabnet_bcfl acc=0.804 auc=0.842 lat=1.7ms
+2026-10-26 21:59:34,029 attacks heart s7 tabnet_bcfl done
+2026-10-26 21:59:35,535 ablation heart s7 done  elapsed=253s
+2026-10-26 21:59:35,687 clean heart s8 fedavg acc=0.804 auc=0.935 lat=0.9ms
+2026-10-26 21:59:36,084 attacks heart s8 fedavg done
+2026-10-26 21:59:36,464 clean heart s8 ppfbxaio acc=0.870 auc=0.981 lat=1.1ms
+2026-10-26 21:59:37,135 attacks heart s8 ppfbxaio done
+2026-10-26 21:59:37,331 clean heart s8 pefl acc=0.913 auc=0.962 lat=1.8ms
+2026-10-26 21:59:38,063 attacks heart s8 pefl done
+2026-10-26 22:00:03,326 clean heart s8 bppfl acc=0.804 auc=0.935 lat=252.3ms
+2026-10-26 22:00:03,748 attacks heart s8 bppfl done
+2026-10-26 22:00:03,944 clean heart s8 tabnet_bcfl acc=0.826 auc=0.945 lat=1.8ms
+2026-10-26 22:00:04,706 attacks heart s8 tabnet_bcfl done
+2026-10-26 22:00:06,220 ablation heart s8 done  elapsed=284s
+2026-10-26 22:00:06,377 clean heart s9 fedavg acc=0.870 auc=0.907 lat=0.9ms
+2026-10-26 22:00:06,813 attacks heart s9 fedavg done
+2026-10-26 22:00:07,197 clean heart s9 ppfbxaio acc=0.848 auc=0.870 lat=1.2ms
+2026-10-26 22:00:07,735 attacks heart s9 ppfbxaio done
+2026-10-26 22:00:07,903 clean heart s9 pefl acc=0.674 auc=0.876 lat=1.6ms
+2026-10-26 22:00:08,605 attacks heart s9 pefl done
+2026-10-26 22:00:34,432 clean heart s9 bppfl acc=0.870 auc=0.907 lat=258.0ms
+2026-10-26 22:00:34,877 attacks heart s9 bppfl done
+2026-10-26 22:00:35,072 clean heart s9 tabnet_bcfl acc=0.870 auc=0.903 lat=1.8ms
+2026-10-26 22:00:35,848 attacks heart s9 tabnet_bcfl done
+2026-10-26 22:00:37,447 ablation heart s9 done  elapsed=315s
+2026-10-26 22:00:37,676 clean breast_cancer s0 fedavg acc=0.977 auc=0.990 lat=1.3ms
+2026-10-26 22:00:38,227 attacks breast_cancer s0 fedavg done
+2026-10-26 22:00:38,659 clean breast_cancer s0 ppfbxaio acc=0.953 auc=0.987 lat=1.6ms
+2026-10-26 22:00:39,336 attacks breast_cancer s0 ppfbxaio done
+2026-10-26 22:00:39,555 clean breast_cancer s0 pefl acc=0.872 auc=0.990 lat=2.1ms
+2026-10-26 22:00:40,452 attacks breast_cancer s0 pefl done
+2026-10-26 22:01:34,604 clean breast_cancer s0 bppfl acc=0.977 auc=0.990 lat=541.2ms
+2026-10-26 22:01:35,211 attacks breast_cancer s0 bppfl done
+2026-10-26 22:01:35,574 clean breast_cancer s0 tabnet_bcfl acc=0.930 auc=0.990 lat=3.3ms
+2026-10-26 22:01:36,858 attacks breast_cancer s0 tabnet_bcfl done
+2026-10-26 22:01:38,961 ablation breast_cancer s0 done  elapsed=376s
+2026-10-26 22:01:39,161 clean breast_cancer s1 fedavg acc=0.965 auc=0.998 lat=1.2ms
+2026-10-26 22:01:39,724 attacks breast_cancer s1 fedavg done
+2026-10-26 22:01:40,164 clean breast_cancer s1 ppfbxaio acc=0.953 auc=0.989 lat=1.6ms
+2026-10-26 22:01:40,890 attacks breast_cancer s1 ppfbxaio done
+2026-10-26 22:01:41,104 clean breast_cancer s1 pefl acc=0.953 auc=0.997 lat=2.0ms
+2026-10-26 22:01:41,996 attacks breast_cancer s1 pefl done
+2026-10-26 22:02:36,752 clean breast_cancer s1 bppfl acc=0.965 auc=0.998 lat=547.2ms
+2026-10-26 22:02:37,429 attacks breast_cancer s1 bppfl done
+2026-10-26 22:02:37,721 clean breast_cancer s1 tabnet_bcfl acc=0.977 auc=0.998 lat=2.7ms
+2026-10-26 22:02:38,917 attacks breast_cancer s1 tabnet_bcfl done
+2026-10-26 22:02:40,970 ablation breast_cancer s1 done  elapsed=438s
+2026-10-26 22:02:41,189 clean breast_cancer s2 fedavg acc=0.942 auc=0.981 lat=1.3ms
+2026-10-26 22:02:41,782 attacks breast_cancer s2 fedavg done
+2026-10-26 22:02:42,231 clean breast_cancer s2 ppfbxaio acc=0.953 auc=0.976 lat=1.6ms
+2026-10-26 22:02:42,913 attacks breast_cancer s2 ppfbxaio done
+2026-10-26 22:02:43,133 clean breast_cancer s2 pefl acc=0.930 auc=0.977 lat=2.1ms
+2026-10-26 22:02:44,034 attacks breast_cancer s2 pefl done
+2026-10-26 22:03:39,767 clean breast_cancer s2 bppfl acc=0.942 auc=0.981 lat=557.0ms
+2026-10-26 22:03:40,429 attacks breast_cancer s2 bppfl done
+2026-10-26 22:03:40,736 clean breast_cancer s2 tabnet_bcfl acc=0.942 auc=0.982 lat=2.8ms
+2026-10-26 22:03:41,907 attacks breast_cancer s2 tabnet_bcfl done
+2026-10-26 22:03:43,917 ablation breast_cancer s2 done  elapsed=501s
+2026-10-26 22:03:44,138 clean breast_cancer s3 fedavg acc=0.977 auc=0.998 lat=1.3ms
+2026-10-26 22:03:44,708 attacks breast_cancer s3 fedavg done
+2026-10-26 22:03:45,165 clean breast_cancer s3 ppfbxaio acc=0.942 auc=0.989 lat=1.5ms
+2026-10-26 22:03:45,849 attacks breast_cancer s3 ppfbxaio done
+2026-10-26 22:03:46,068 clean breast_cancer s3 pefl acc=0.977 auc=0.997 lat=2.1ms
+2026-10-26 22:03:46,908 attacks breast_cancer s3 pefl done
+2026-10-26 22:04:40,677 clean breast_cancer s3 bppfl acc=0.977 auc=0.998 lat=537.4ms
+2026-10-26 22:04:41,314 attacks breast_cancer s3 bppfl done
+2026-10-26 22:04:41,626 clean breast_cancer s3 tabnet_bcfl acc=0.953 auc=0.998 lat=2.9ms
+2026-10-26 22:04:42,765 attacks breast_cancer s3 tabnet_bcfl done
+2026-10-26 22:04:44,697 ablation breast_cancer s3 done  elapsed=562s
+2026-10-26 22:04:44,917 clean breast_cancer s4 fedavg acc=0.907 auc=0.986 lat=1.2ms
+2026-10-26 22:04:45,459 attacks breast_cancer s4 fedavg done
+2026-10-26 22:04:45,883 clean breast_cancer s4 ppfbxaio acc=0.942 auc=0.979 lat=1.5ms
+2026-10-26 22:04:46,560 attacks breast_cancer s4 ppfbxaio done
+2026-10-26 22:04:46,776 clean breast_cancer s4 pefl acc=0.942 auc=0.987 lat=2.0ms
+2026-10-26 22:04:47,605 attacks breast_cancer s4 pefl done
+2026-10-26 22:05:41,433 clean breast_cancer s4 bppfl acc=0.907 auc=0.986 lat=538.0ms
+2026-10-26 22:05:42,082 attacks breast_cancer s4 bppfl done
+2026-10-26 22:05:42,372 clean breast_cancer s4 tabnet_bcfl acc=0.919 auc=0.983 lat=2.7ms
+2026-10-26 22:05:43,550 attacks breast_cancer s4 tabnet_bcfl done
+2026-10-26 22:05:45,735 ablation breast_cancer s4 done  elapsed=623s
+2026-10-26 22:05:45,976 clean breast_cancer s5 fedavg acc=0.919 auc=0.993 lat=1.4ms
+2026-10-26 22:05:46,631 attacks breast_cancer s5 fedavg done
+2026-10-26 22:05:47,147 clean breast_cancer s5 ppfbxaio acc=0.919 auc=0.986 lat=1.7ms
+2026-10-26 22:05:47,824 attacks breast_cancer s5 ppfbxaio done
+2026-10-26 22:05:48,054 clean breast_cancer s5 pefl acc=0.930 auc=0.987 lat=2.2ms
+2026-10-26 22:05:49,021 attacks breast_cancer s5 pefl done
+2026-10-26 22:06:43,424 clean breast_cancer s5 bppfl acc=0.919 auc=0.993 lat=543.7ms
+2026-10-26 22:06:44,008 attacks breast_cancer s5 bppfl done
+2026-10-26 22:06:44,299 clean breast_cancer s5 tabnet_bcfl acc=0.895 auc=0.984 lat=2.7ms
+2026-10-26 22:06:45,519 attacks breast_cancer s5 tabnet_bcfl done
+2026-10-26 22:06:47,548 ablation breast_cancer s5 done  elapsed=685s
+2026-10-26 22:06:47,786 clean breast_cancer s6 fedavg acc=0.942 auc=0.972 lat=1.3ms
+2026-10-26 22:06:48,335 attacks breast_cancer s6 fedavg done
+2026-10-26 22:06:48,776 clean breast_cancer s6 ppfbxaio acc=0.930 auc=0.949 lat=1.6ms
+2026-10-26 22:06:49,434 attacks breast_cancer s6 ppfbxaio done
+2026-10-26 22:06:49,659 clean breast_cancer s6 pefl acc=0.930 auc=0.965 lat=2.1ms
+2026-10-26 22:06:50,561 attacks breast_cancer s6 pefl done
+2026-10-26 22:07:46,633 clean breast_cancer s6 bppfl acc=0.942 auc=0.972 lat=560.4ms
+2026-10-26 22:07:47,232 attacks breast_cancer s6 bppfl done
+2026-10-26 22:07:47,519 clean breast_cancer s6 tabnet_bcfl acc=0.953 auc=0.974 lat=2.7ms
+2026-10-26 22:07:48,830 attacks breast_cancer s6 tabnet_bcfl done
+2026-10-26 22:07:50,985 ablation breast_cancer s6 done  elapsed=749s
+2026-10-26 22:07:51,248 clean breast_cancer s7 fedavg acc=0.942 auc=0.990 lat=1.4ms
+2026-10-26 22:07:51,874 attacks breast_cancer s7 fedavg done
+2026-10-26 22:07:52,320 clean breast_cancer s7 ppfbxaio acc=0.942 auc=0.987 lat=1.8ms
+2026-10-26 22:07:53,045 attacks breast_cancer s7 ppfbxaio done
+2026-10-26 22:07:53,286 clean breast_cancer s7 pefl acc=0.942 auc=0.987 lat=2.3ms
+2026-10-26 22:07:54,363 attacks breast_cancer s7 pefl done
+2026-10-26 22:08:50,852 clean breast_cancer s7 bppfl acc=0.942 auc=0.990 lat=564.6ms
+2026-10-26 22:08:51,641 attacks breast_cancer s7 bppfl done
+2026-10-26 22:08:52,010 clean breast_cancer s7 tabnet_bcfl acc=0.953 auc=0.992 lat=3.5ms
+2026-10-26 22:08:53,398 attacks breast_cancer s7 tabnet_bcfl done
+2026-10-26 22:08:55,825 ablation breast_cancer s7 done  elapsed=813s
+2026-10-26 22:08:56,077 clean breast_cancer s8 fedavg acc=0.930 auc=0.992 lat=1.4ms
+2026-10-26 22:08:56,741 attacks breast_cancer s8 fedavg done
+2026-10-26 22:08:57,256 clean breast_cancer s8 ppfbxaio acc=0.977 auc=0.995 lat=1.9ms
+2026-10-26 22:08:58,078 attacks breast_cancer s8 ppfbxaio done
+2026-10-26 22:08:58,309 clean breast_cancer s8 pefl acc=0.965 auc=0.990 lat=2.1ms
+2026-10-26 22:08:59,289 attacks breast_cancer s8 pefl done
+2026-10-26 22:09:53,742 clean breast_cancer s8 bppfl acc=0.930 auc=0.992 lat=544.2ms
+2026-10-26 22:09:54,335 attacks breast_cancer s8 bppfl done
+2026-10-26 22:09:54,628 clean breast_cancer s8 tabnet_bcfl acc=0.930 auc=0.980 lat=2.7ms
+2026-10-26 22:09:55,835 attacks breast_cancer s8 tabnet_bcfl done
+2026-10-26 22:09:58,138 ablation breast_cancer s8 done  elapsed=876s
+2026-10-26 22:09:58,427 clean breast_cancer s9 fedavg acc=0.953 auc=0.998 lat=1.6ms
+2026-10-26 22:09:59,085 attacks breast_cancer s9 fedavg done
+2026-10-26 22:09:59,556 clean breast_cancer s9 ppfbxaio acc=0.988 auc=0.998 lat=1.6ms
+2026-10-26 22:10:00,272 attacks breast_cancer s9 ppfbxaio done
+2026-10-26 22:10:00,508 clean breast_cancer s9 pefl acc=0.988 auc=0.998 lat=2.2ms
+2026-10-26 22:10:01,406 attacks breast_cancer s9 pefl done
+2026-10-26 22:10:57,262 clean breast_cancer s9 bppfl acc=0.953 auc=0.998 lat=558.2ms
+2026-10-26 22:10:57,887 attacks breast_cancer s9 bppfl done
+2026-10-26 22:10:58,220 clean breast_cancer s9 tabnet_bcfl acc=0.942 auc=0.999 lat=3.1ms
+2026-10-26 22:10:59,585 attacks breast_cancer s9 tabnet_bcfl done
+2026-10-26 22:11:01,770 ablation breast_cancer s9 done  elapsed=939s
+2026-10-26 22:11:02,087 clean diabetes s0 fedavg acc=0.681 auc=0.865 lat=1.6ms
+2026-10-26 22:11:02,826 attacks diabetes s0 fedavg done
+2026-10-26 22:11:03,352 clean diabetes s0 ppfbxaio acc=0.664 auc=0.674 lat=1.9ms
+2026-10-26 22:11:04,143 attacks diabetes s0 ppfbxaio done
+2026-10-26 22:11:04,378 clean diabetes s0 pefl acc=0.655 auc=0.853 lat=2.2ms
+2026-10-26 22:11:05,442 attacks diabetes s0 pefl done
+2026-10-26 22:11:23,167 clean diabetes s0 bppfl acc=0.681 auc=0.865 lat=176.9ms
+2026-10-26 22:11:23,819 attacks diabetes s0 bppfl done
+2026-10-26 22:11:24,132 clean diabetes s0 tabnet_bcfl acc=0.750 auc=0.847 lat=2.9ms
+2026-10-26 22:11:25,530 attacks diabetes s0 tabnet_bcfl done
+2026-10-26 22:11:27,853 ablation diabetes s0 done  elapsed=965s
+2026-10-26 22:11:28,127 clean diabetes s1 fedavg acc=0.612 auc=0.797 lat=1.4ms
+2026-10-26 22:11:28,786 attacks diabetes s1 fedavg done
+2026-10-26 22:11:29,260 clean diabetes s1 ppfbxaio acc=0.655 auc=0.386 lat=1.7ms
+2026-10-26 22:11:30,051 attacks diabetes s1 ppfbxaio done
+2026-10-26 22:11:30,297 clean diabetes s1 pefl acc=0.681 auc=0.788 lat=2.3ms
+2026-10-26 22:11:31,272 attacks diabetes s1 pefl done
+2026-10-26 22:11:49,307 clean diabetes s1 bppfl acc=0.612 auc=0.797 lat=180.0ms
+2026-10-26 22:11:49,988 attacks diabetes s1 bppfl done
+2026-10-26 22:11:50,322 clean diabetes s1 tabnet_bcfl acc=0.759 auc=0.803 lat=3.1ms
+2026-10-26 22:11:51,611 attacks diabetes s1 tabnet_bcfl done
+2026-10-26 22:11:53,931 ablation diabetes s1 done  elapsed=991s
+2026-10-26 22:11:54,213 clean diabetes s2 fedavg acc=0.767 auc=0.816 lat=1.5ms
+2026-10-26 22:11:54,878 attacks diabetes s2 fedavg done
+2026-10-26 22:11:55,366 clean diabetes s2 ppfbxaio acc=0.767 auc=0.810 lat=1.7ms
+2026-10-26 22:11:56,133 attacks diabetes s2 ppfbxaio done
+2026-10-26 22:11:56,354 clean diabetes s2 pefl acc=0.724 auc=0.812 lat=2.1ms
+2026-10-26 22:11:57,266 attacks diabetes s2 pefl done
+2026-10-26 22:12:14,636 clean diabetes s2 bppfl acc=0.767 auc=0.816 lat=173.4ms
+2026-10-26 22:12:15,266 attacks diabetes s2 bppfl done
+2026-10-26 22:12:15,565 clean diabetes s2 tabnet_bcfl acc=0.716 auc=0.795 lat=2.8ms
+2026-10-26 22:12:16,827 attacks diabetes s2 tabnet_bcfl done
+2026-10-26 22:12:19,055 ablation diabetes s2 done  elapsed=1017s
+2026-10-26 22:12:19,347 clean diabetes s3 fedavg acc=0.741 auc=0.837 lat=1.5ms
+2026-10-26 22:12:20,001 attacks diabetes s3 fedavg done
+2026-10-26 22:12:20,470 clean diabetes s3 ppfbxaio acc=0.707 auc=0.785 lat=1.7ms
+2026-10-26 22:12:21,245 attacks diabetes s3 ppfbxaio done
+2026-10-26 22:12:21,470 clean diabetes s3 pefl acc=0.750 auc=0.847 lat=2.1ms
+2026-10-26 22:12:22,378 attacks diabetes s3 pefl done
+2026-10-26 22:12:39,344 clean diabetes s3 bppfl acc=0.741 auc=0.837 lat=169.4ms
+2026-10-26 22:12:40,028 attacks diabetes s3 bppfl done
+2026-10-26 22:12:40,352 clean diabetes s3 tabnet_bcfl acc=0.750 auc=0.832 lat=3.0ms
+2026-10-26 22:12:41,615 attacks diabetes s3 tabnet_bcfl done
+2026-10-26 22:12:43,851 ablation diabetes s3 done  elapsed=1041s
+2026-10-26 22:12:44,155 clean diabetes s4 fedavg acc=0.733 auc=0.809 lat=1.5ms
+2026-10-26 22:12:44,788 attacks diabetes s4 fedavg done
+2026-10-26 22:12:45,261 clean diabetes s4 ppfbxaio acc=0.690 auc=0.784 lat=1.7ms
+2026-10-26 22:12:46,068 attacks diabetes s4 ppfbxaio done
+2026-10-26 22:12:46,348 clean diabetes s4 pefl acc=0.716 auc=0.816 lat=2.6ms
+2026-10-26 22:12:47,340 attacks diabetes s4 pefl done
+2026-10-26 22:13:05,108 clean diabetes s4 bppfl acc=0.733 auc=0.809 lat=177.4ms
+2026-10-26 22:13:05,769 attacks diabetes s4 bppfl done
+2026-10-26 22:13:06,055 clean diabetes s4 tabnet_bcfl acc=0.741 auc=0.809 lat=2.7ms
+2026-10-26 22:13:07,283 attacks diabetes s4 tabnet_bcfl done
+2026-10-26 22:13:09,520 ablation diabetes s4 done  elapsed=1067s
+2026-10-26 22:13:09,822 clean diabetes s5 fedavg acc=0.681 auc=0.776 lat=1.5ms
+2026-10-26 22:13:10,540 attacks diabetes s5 fedavg done
+2026-10-26 22:13:11,034 clean diabetes s5 ppfbxaio acc=0.707 auc=0.765 lat=1.9ms
+2026-10-26 22:13:11,826 attacks diabetes s5 ppfbxaio done
+2026-10-26 22:13:12,085 clean diabetes s5 pefl acc=0.716 auc=0.764 lat=2.4ms
+2026-10-26 22:13:13,071 attacks diabetes s5 pefl done
+2026-10-26 22:13:30,419 clean diabetes s5 bppfl acc=0.681 auc=0.776 lat=173.2ms
+2026-10-26 22:13:31,142 attacks diabetes s5 bppfl done
+2026-10-26 22:13:31,449 clean diabetes s5 tabnet_bcfl acc=0.707 auc=0.807 lat=2.9ms
+2026-10-26 22:13:32,642 attacks diabetes s5 tabnet_bcfl done
+2026-10-26 22:13:35,053 ablation diabetes s5 done  elapsed=1093s
+2026-10-26 22:13:35,369 clean diabetes s6 fedavg acc=0.767 auc=0.878 lat=1.6ms
+2026-10-26 22:13:36,055 attacks diabetes s6 fedavg done
+2026-10-26 22:13:36,542 clean diabetes s6 ppfbxaio acc=0.733 auc=0.831 lat=2.0ms
+2026-10-26 22:13:37,462 attacks diabetes s6 ppfbxaio done
+2026-10-26 22:13:37,798 clean diabetes s6 pefl acc=0.784 auc=0.884 lat=3.2ms
+2026-10-26 22:13:38,924 attacks diabetes s6 pefl done
+2026-10-26 22:13:56,220 clean diabetes s6 bppfl acc=0.767 auc=0.878 lat=172.7ms
+2026-10-26 22:13:56,899 attacks diabetes s6 bppfl done
+2026-10-26 22:13:57,195 clean diabetes s6 tabnet_bcfl acc=0.733 auc=0.878 lat=2.8ms
+2026-10-26 22:13:58,395 attacks diabetes s6 tabnet_bcfl done
+2026-10-26 22:14:00,825 ablation diabetes s6 done  elapsed=1118s
+2026-10-26 22:14:01,157 clean diabetes s7 fedavg acc=0.784 auc=0.838 lat=1.7ms
+2026-10-26 22:14:01,811 attacks diabetes s7 fedavg done
+2026-10-26 22:14:02,302 clean diabetes s7 ppfbxaio acc=0.716 auc=0.802 lat=1.8ms
+2026-10-26 22:14:03,166 attacks diabetes s7 ppfbxaio done
+2026-10-26 22:14:03,397 clean diabetes s7 pefl acc=0.759 auc=0.841 lat=2.2ms
+2026-10-26 22:14:04,349 attacks diabetes s7 pefl done
+2026-10-26 22:14:22,136 clean diabetes s7 bppfl acc=0.784 auc=0.838 lat=177.6ms
+2026-10-26 22:14:22,947 attacks diabetes s7 bppfl done
+2026-10-26 22:14:23,259 clean diabetes s7 tabnet_bcfl acc=0.690 auc=0.857 lat=2.9ms
+2026-10-26 22:14:24,591 attacks diabetes s7 tabnet_bcfl done
+2026-10-26 22:14:26,994 ablation diabetes s7 done  elapsed=1145s
+2026-10-26 22:14:27,297 clean diabetes s8 fedavg acc=0.733 auc=0.764 lat=1.4ms
+2026-10-26 22:14:27,916 attacks diabetes s8 fedavg done
+2026-10-26 22:14:28,378 clean diabetes s8 ppfbxaio acc=0.647 auc=0.697 lat=1.6ms
+2026-10-26 22:14:29,078 attacks diabetes s8 ppfbxaio done
+2026-10-26 22:14:29,299 clean diabetes s8 pefl acc=0.690 auc=0.762 lat=2.1ms
+2026-10-26 22:14:30,187 attacks diabetes s8 pefl done
+2026-10-26 22:14:48,463 clean diabetes s8 bppfl acc=0.733 auc=0.764 lat=182.4ms
+2026-10-26 22:14:49,089 attacks diabetes s8 bppfl done
+2026-10-26 22:14:49,368 clean diabetes s8 tabnet_bcfl acc=0.664 auc=0.743 lat=2.6ms
+2026-10-26 22:14:50,492 attacks diabetes s8 tabnet_bcfl done
+2026-10-26 22:14:52,719 ablation diabetes s8 done  elapsed=1170s
+2026-10-26 22:14:53,068 clean diabetes s9 fedavg acc=0.698 auc=0.832 lat=1.7ms
+2026-10-26 22:14:53,917 attacks diabetes s9 fedavg done
+2026-10-26 22:14:54,441 clean diabetes s9 ppfbxaio acc=0.733 auc=0.797 lat=1.8ms
+2026-10-26 22:14:55,218 attacks diabetes s9 ppfbxaio done
+2026-10-26 22:14:55,457 clean diabetes s9 pefl acc=0.655 auc=0.827 lat=2.3ms
+2026-10-26 22:14:56,468 attacks diabetes s9 pefl done
+2026-10-26 22:15:14,372 clean diabetes s9 bppfl acc=0.698 auc=0.832 lat=178.7ms
+2026-10-26 22:15:15,124 attacks diabetes s9 bppfl done
+2026-10-26 22:15:15,431 clean diabetes s9 tabnet_bcfl acc=0.733 auc=0.831 lat=2.9ms
+2026-10-26 22:15:16,762 attacks diabetes s9 tabnet_bcfl done
+2026-10-26 22:15:19,282 ablation diabetes s9 done  elapsed=1197s
+2026-10-26 22:15:19,447 ALL DONE

@@ -1,0 +1,13 @@
+Dataset,Model,Mean Δacc vs FedAvg (pp),Wilcoxon p
+UCI Heart Disease,PPFBXAIO,-8.26,0.029
+UCI Heart Disease,PEFL,-4.78,0.176
+UCI Heart Disease,BPPFL,+0.00,1.000
+UCI Heart Disease,TabNet-BCFL,-0.87,0.688
+Breast Cancer Wisconsin,PPFBXAIO,+0.47,0.578
+Breast Cancer Wisconsin,PEFL,-0.23,0.773
+Breast Cancer Wisconsin,BPPFL,+0.00,1.000
+Breast Cancer Wisconsin,TabNet-BCFL,-0.58,0.438
+Pima Diabetes,PPFBXAIO,-1.81,0.238
+Pima Diabetes,PEFL,-0.69,0.443
+Pima Diabetes,BPPFL,+0.00,1.000
+Pima Diabetes,TabNet-BCFL,+0.43,1.000
