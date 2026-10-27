@@ -28,4 +28,4 @@ python src/make_pipeline_figure.py   # Figure 1 (pipeline diagram)
 
 ## Important notes
 All five methods are simplified re-implementations (no official code used); see Table 2 and Section 6 of the report for every deviation.
-The code was developed with the assistance of an AI coding tool (Claude, Anthropic); see Section 8 of the report.
+The code was developed with the assistance of an AI 
