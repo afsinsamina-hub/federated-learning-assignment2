@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import wilcoxon
 from sklearn.metrics import roc_curve
 
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # always work from the project folder, wherever the script is started
 sys.stdout.reconfigure(errors="replace")   # avoid crashes on consoles with limited encodings (e.g. cp949)
 R = json.load(open("results/raw_results.json", encoding="utf-8"))
 os.makedirs("results/figures", exist_ok=True)

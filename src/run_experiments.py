@@ -1,7 +1,8 @@
 """Runs every experiment and stores raw results in results/raw_results.json.
    usage: python src/run_experiments.py   (about 20-25 min on 1 CPU)"""
 import json, time, sys, os, logging
-sys.path.insert(0, os.path.dirname(__file__))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # always work from the project folder, wherever the script is started
 from common import prepare
 from fl_sim import run_fl
 

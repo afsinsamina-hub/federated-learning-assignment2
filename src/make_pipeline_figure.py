@@ -1,4 +1,5 @@
 """Draws Figure 1 (experimental pipeline) -> results/figures/fig0_pipeline.png"""
+import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))   # always work from the project folder
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
