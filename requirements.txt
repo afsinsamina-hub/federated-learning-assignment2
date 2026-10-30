@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+pytorch-tabnet==4.1.0
+shap
+gmpy2
+matplotlib
+tabulate
