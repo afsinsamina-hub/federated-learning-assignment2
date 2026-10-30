@@ -1,0 +1,17 @@
+method,eps,attack,mean,std
+PEFL,1.0,dyn_opt,0.504,0.027
+PEFL,1.0,none,0.623,0.193
+PEFL,10.0,dyn_opt,0.504,0.018
+PEFL,10.0,none,0.878,0.089
+PEFL,100.0,dyn_opt,0.888,0.08
+PEFL,100.0,none,0.886,0.083
+PEFL,1000.0,dyn_opt,0.888,0.079
+PEFL,1000.0,none,0.887,0.084
+TabNet-BCFL,6.855,dyn_opt,0.497,0.03
+TabNet-BCFL,6.855,none,0.494,0.03
+TabNet-BCFL,50.0,dyn_opt,0.516,0.048
+TabNet-BCFL,50.0,none,0.502,0.03
+TabNet-BCFL,500.0,dyn_opt,0.521,0.125
+TabNet-BCFL,500.0,none,0.543,0.132
+TabNet-BCFL,5000.0,dyn_opt,0.521,0.125
+TabNet-BCFL,5000.0,none,0.543,0.132

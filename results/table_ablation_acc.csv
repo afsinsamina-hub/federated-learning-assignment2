@@ -1,0 +1,16 @@
+method,none,label_flip,dyn_opt
+BPPFL / w.o. TPE (plain aggregation),0.819 ± 0.027,0.762 ± 0.034,0.807 ± 0.030
+BPPFL / w.o. TSA signatures,0.820 ± 0.026,0.760 ± 0.033,0.808 ± 0.029
+BPPFL / w.o. blockchain,0.820 ± 0.026,0.760 ± 0.033,0.808 ± 0.029
+PEFL / w.o. LDP noise,0.804 ± 0.016,0.764 ± 0.042,0.791 ± 0.027
+PEFL / w.o. LDP noise and filter,0.818 ± 0.029,0.722 ± 0.059,0.798 ± 0.018
+PEFL / w.o. MFF consensus,0.571 ± 0.087,0.559 ± 0.092,0.609 ± 0.000
+PEFL / w.o. anomaly filter,0.593 ± 0.066,0.556 ± 0.052,0.609 ± 0.000
+PPFBXAIO / full,0.731 ± 0.082,0.611 ± 0.111,0.708 ± 0.092
+PPFBXAIO / w.o. EDBN (MLP),0.799 ± 0.038,0.696 ± 0.127,0.800 ± 0.023
+PPFBXAIO / w.o. LGOA,0.747 ± 0.082,0.652 ± 0.104,0.737 ± 0.081
+PPFBXAIO / w.o. RAPPOR,0.681 ± 0.057,0.625 ± 0.128,0.709 ± 0.093
+PPFBXAIO / w.o. SHAP-EGA,0.686 ± 0.085,0.612 ± 0.120,0.707 ± 0.093
+PPFBXAIO / w.o. blockchain,0.743 ± 0.084,0.610 ± 0.101,0.686 ± 0.084
+TabNet-BCFL / w.o. DP,0.705 ± 0.046,0.627 ± 0.099,0.704 ± 0.053
+TabNet-BCFL / w.o. blockchain,0.530 ± 0.055,0.532 ± 0.055,0.539 ± 0.064

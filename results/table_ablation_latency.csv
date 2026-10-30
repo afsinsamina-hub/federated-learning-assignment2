@@ -1,0 +1,16 @@
+method,latency_ms,msgs,blocks
+BPPFL / w.o. TPE (plain aggregation),56.92,8127.0,302.0
+BPPFL / w.o. TSA signatures,1348.13,8127.0,302.0
+BPPFL / w.o. blockchain,1344.03,0.0,0.0
+PEFL / w.o. LDP noise,1.12,2127.0,52.0
+PEFL / w.o. LDP noise and filter,0.33,2127.0,52.0
+PEFL / w.o. MFF consensus,0.3,0.0,0.0
+PEFL / w.o. anomaly filter,0.33,2127.0,52.0
+PPFBXAIO / full,176.53,8127.0,302.0
+PPFBXAIO / w.o. EDBN (MLP),168.85,8127.0,302.0
+PPFBXAIO / w.o. LGOA,175.67,8127.0,302.0
+PPFBXAIO / w.o. RAPPOR,175.54,8127.0,302.0
+PPFBXAIO / w.o. SHAP-EGA,1.75,8127.0,302.0
+PPFBXAIO / w.o. blockchain,169.0,0.0,0.0
+TabNet-BCFL / w.o. DP,1.22,8127.0,302.0
+TabNet-BCFL / w.o. blockchain,0.46,0.0,0.0
